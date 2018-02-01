@@ -1,4 +1,4 @@
-body {font-family: helvetica; margin: 0; padding: 0;}
+body {font-family: helvetica;}
 a {text-decoration: none;}
 h1 a:link {color: hsl(180,80%,30%);}
 h1 a:visited {color: hsl(180,80%,30%);}
@@ -10,6 +10,6 @@ ul a:hover {color: rgb(144,144,144);}
 ul a:active {color: rgb(240,240,240);}
 h1 {position: fixed; left: 70px; top: 50px;}
 h2 {color: hsl(0,90%,85%);}
-ul.main-menu {list-style-type: none; display: block; position: absolute; left: 70px; top: 100px}
+ul.main-menu {list-style-type: none; display: block; position: absolute; left: 50px; top: 120px}
 div.main-content {position: absolute; left: 25%; top: 25%;}
 footer {position: fixed; left: 70px; bottom: 60px;}
