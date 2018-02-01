@@ -10,6 +10,6 @@ ul a:hover {color: rgb(144,144,144);}
 ul a:active {color: rgb(240,240,240);}
 h1 {position: fixed; left: 70px; top: 20px;}
 h2 {color: hsl(0,90%,85%);}
-ul.main-menu {list-style-type: none; display: block; position: absolute; left: 60px; top: 110px; padding: 10px 0px;}
+ul.main-menu {list-style-type: none; display: block; position: absolute; left: 60px; top: 110px;}
 div.main-content {position: absolute; left: 350px; top: 175px;}
 footer {position: fixed; left: 70px; bottom: 30px;}
