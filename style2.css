@@ -11,5 +11,5 @@ ul a:active {color: rgb(240,240,240);}
 h1 {position: fixed; left: 70px; top: 20px;}
 h2 {color: hsl(0,90%,85%);}
 ul.main-menu {list-style-type: none; display: block; position: fixed; left: 60px; top: 110px;}
-div.main-content {position: absolute; left: 350px; top: 175px; margin-right: 350px;}
+div.main-content {position: absolute; left: 350px; top: 175px; margin-right: 350px; margin-bottom: 175px;}
 footer {position: fixed; left: 70px; bottom: 30px;}
